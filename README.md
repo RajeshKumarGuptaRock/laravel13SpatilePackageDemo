@@ -20,7 +20,7 @@ A complete Role & Permission Management system built with Laravel 12 and Spatie 
 # Tech Stack
 
 - PHP 8.2+
-- Laravel 12
+- Laravel 13
 - MySQL
 - Spatie Laravel Permission
 - TailwindCSS
