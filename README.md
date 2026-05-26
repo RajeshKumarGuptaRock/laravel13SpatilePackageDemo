@@ -1,4 +1,4 @@
-# Laravel 12 Role & Permission Management Demo
+# Laravel 13 Role & Permission Management Demo
 
 A complete Role & Permission Management system built with Laravel 12 and Spatie Laravel Permission package.
 
