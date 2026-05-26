@@ -11,6 +11,8 @@ services:
 
     volumes:
       - ./backend/blog:/var/www/html
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
 
     depends_on:
       mysql:
